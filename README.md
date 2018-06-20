@@ -3,12 +3,12 @@
 An AR-based Piano(Keyboard) app which responds to your real-time key press .  
 
 
-## Steps to be followed
+# Steps to be followed
 
-# Step 1 : Take a print-out of the given piano (image),it is recommmended to take a medium-sized print for better usability.
-# Step 2 : Download and install the application,the dropbox link for the same is provided above.
-# Step 3 : After installing the application,open it and focus your camera on the print-out (the piano).
-# Step 4 : Press the keys and enjoy playing your favourite instrument with some added twist.
+## Step 1 : Take a print-out of the given piano (image),it is recommmended to take a medium-sized print for better usability.
+## Step 2 : Download and install the application,the dropbox link for the same is provided above.
+## Step 3 : After installing the application,open it and focus your camera on the print-out (the piano).
+## Step 4 : Press the keys and enjoy playing your favourite instrument with some added twist.
 
 
 
