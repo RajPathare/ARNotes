@@ -5,7 +5,7 @@ An AR-based Piano(Keyboard) app which responds to your real-time key press .
 
 ## Steps to be followed
 
- ### Step 1 : Take a print-out of the given piano (image),it is recommmended to take a medium-sized print for better usability.
+ * Step 1 : Take a print-out of the given piano (image),it is recommmended to take a medium-sized print for better usability.
  
 ![piano2](https://user-images.githubusercontent.com/31897425/41667362-627207a0-74ca-11e8-857f-dfa96e5a36b6.jpg)
 
