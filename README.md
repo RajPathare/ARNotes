@@ -3,7 +3,7 @@
 An AR-based Piano(Keyboard) app which responds to your real-time key press .  
 
 
-## Steps to be followed
+## Steps to be followed 
 
  * Take a print-out of the given piano (image),it is recommmended to take a medium-sized print for better usability.
  
